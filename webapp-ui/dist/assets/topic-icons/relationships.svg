@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa5757"/>
+      <stop offset="1" stop-color="#8d0909"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#90fd85"/>
+      <stop offset="1" stop-color="#558a18"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(0.213 0.099)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Mask-2" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(0.213 0.158)" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Mask-3" data-name="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Mask-4" data-name="Mask" width="85" height="85" rx="1.25" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204"/>
+    </clipPath>
+  </defs>
+  <g id="relationships" transform="translate(-0.213 -0.099)">
+    <g id="topic" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="Image" transform="translate(0 -190.059)">
+        <circle id="Mask-6" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(0.213 0.158)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="topic-2" data-name="topic" transform="translate(0.213 0.099)">
+      <circle id="Mask-7" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <g id="topic-3" data-name="topic" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+        <g id="Clean_Copy_10" data-name="Clean Copy 10" transform="translate(0 0)">
+          <g id="Pattern">
+            <g id="Mask-8" data-name="Mask" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204">
+              <rect width="85" height="85" rx="1.25" stroke="none"/>
+              <rect x="0.25" y="0.25" width="84.5" height="84.5" rx="1" fill="none"/>
+            </g>
+            <g id="Pattern-2" data-name="Pattern" clip-path="url(#clip-path-4)">
+              <g id="Group_12" data-name="Group 12" transform="translate(-2.656 7.869)">
+                <g id="Rectangle" transform="translate(33.082 26.783) rotate(45)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.188" opacity="0.144">
+                  <rect width="15.563" height="15.563" stroke="none"/>
+                  <rect x="1.094" y="1.094" width="13.375" height="13.375" fill="none"/>
+                </g>
+                <g id="Rectangle-2" data-name="Rectangle" transform="translate(54.651 9.772)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.563" opacity="0.259">
+                  <rect width="11.944" height="11.944" stroke="none"/>
+                  <rect x="0.781" y="0.781" width="10.381" height="10.381" fill="none"/>
+                </g>
+                <circle id="Oval" cx="11.039" cy="11.039" r="11.039" transform="translate(49.584 26.783)" fill="#fff" opacity="0.368"/>
+                <circle id="Oval-2" data-name="Oval" cx="11.039" cy="11.039" r="11.039" transform="translate(0)" fill="#fff" opacity="0.08"/>
+                <rect id="Rectangle-3" data-name="Rectangle" width="7.6" height="7.6" transform="translate(19.851 48.86) rotate(45)" fill="#fff" opacity="0.119"/>
+                <rect id="Rectangle-4" data-name="Rectangle" width="7.6" height="7.6" transform="translate(85.36 10.496) rotate(45)" fill="#fff" opacity="0.212"/>
+                <rect id="Rectangle-5" data-name="Rectangle" width="10.858" height="10.858" transform="translate(79.986 32.212)" fill="#fff" opacity="0.408"/>
+                <path id="Combined_Shape" data-name="Combined Shape" d="M8.686,17.373a8.686,8.686,0,1,1,8.687-8.687A8.7,8.7,0,0,1,8.686,17.373Zm0-12.27h0L5.1,8.686l3.583,3.583,3.583-3.583L8.686,5.1Z" transform="translate(52.118 55.375)" fill="#fff" opacity="0.048"/>
+                <circle id="Oval-3" data-name="Oval" cx="3.438" cy="3.438" r="3.438" transform="translate(41.247 4.349)" fill="#fff" opacity="0.468"/>
+                <circle id="Oval-4" data-name="Oval" cx="3.438" cy="3.438" r="3.438" transform="translate(29.678 52.841)" fill="#fff" opacity="0.168"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Image-3" data-name="Image" transform="translate(0 -190.4)">
+          <circle id="Mask-9" data-name="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

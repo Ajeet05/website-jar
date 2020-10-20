@@ -1,0 +1,420 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#acfca3"/>
+      <stop offset="1" stop-color="#55792b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#90fd85"/>
+      <stop offset="1" stop-color="#558a18"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Mask-2" data-name="Mask" width="85" height="85" rx="1.25" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Mask-3" data-name="Mask" width="31.875" height="11.156" transform="translate(0 22.539) rotate(-45)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Mask-4" data-name="Mask" width="31.875" height="11.156" transform="translate(7.889) rotate(45)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="live_well" data-name="live well" transform="translate(-88 -470)">
+    <circle id="Mask-6" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(88 470)" fill="url(#linear-gradient)"/>
+    <g id="topic" transform="translate(88 470)" clip-path="url(#clip-path)">
+      <g id="Clean_Copy_16" data-name="Clean Copy 16" transform="translate(0 0)">
+        <g id="Pattern_Copy_32" data-name="Pattern Copy 32">
+          <g id="Mask-7" data-name="Mask" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204">
+            <rect width="85" height="85" rx="1.25" stroke="none"/>
+            <rect x="0.25" y="0.25" width="84.5" height="84.5" rx="1" fill="none"/>
+          </g>
+        </g>
+        <g id="Combined_Shape" data-name="Combined Shape" transform="translate(19.656 20.188)" fill="none" stroke-miterlimit="10" opacity="0.292">
+          <path d="M0,37.669l15.257-15.09L0,7.488,7.57,0,30.282,22.463l-.116.115.116.115L7.57,45.156Z" stroke="none"/>
+          <path d="M 7.570441722869873 44.45315933227539 L 29.57074928283691 22.69295120239258 L 29.45475196838379 22.57821083068848 L 29.57074928283691 22.46347045898438 L 7.570441722869873 0.703263521194458 L 0.7110239267349243 7.487821102142334 L 15.60850143432617 22.22272109985352 L 15.96791172027588 22.57821083068848 L 15.60850143432617 22.93370056152344 L 0.7110239267349243 37.66860198974609 L 7.570441722869873 44.45315933227539 M 7.570441722869873 45.15642166137695 L 1.538391074973333e-06 37.66860198974609 L 15.25689125061035 22.57821083068848 L 1.538391074973333e-06 7.487820625305176 L 7.570441722869873 8.306884637931944e-07 L 30.28176116943359 22.46346092224121 L 30.16575241088867 22.57821083068848 L 30.28176116943359 22.69296073913574 L 7.570441722869873 45.15642166137695 Z" stroke="none" fill="#fff"/>
+        </g>
+        <g id="Dots" transform="translate(34.911 20.095)" opacity="0.305">
+          <rect id="Mask-8" data-name="Mask" width="31.875" height="11.156" transform="translate(0 22.539) rotate(-45)" fill="none"/>
+          <g id="Dots-2" data-name="Dots" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+            <g id="Dots-3" data-name="Dots" transform="translate(21.165 -0.531) rotate(45)">
+              <g id="Group_8" data-name="Group 8">
+                <circle id="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-2" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-3" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-4" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-5" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-6" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-7" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-8" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-9" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-10" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-11" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-12" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-13" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-14" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-15" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-16" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-17" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-18" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-19" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-20" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-21" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-2" data-name="Group 8" transform="translate(1.594)">
+                <circle id="Oval-22" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-23" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-24" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-25" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-26" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-27" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-28" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-29" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-30" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-31" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-32" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-33" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-34" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-35" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-3" data-name="Group 8" transform="translate(3.188)">
+                <circle id="Oval-36" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-37" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-38" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-39" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-40" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-41" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-42" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-43" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-44" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-45" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-46" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-47" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-48" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-49" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-4" data-name="Group 8" transform="translate(4.781)">
+                <circle id="Oval-50" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-51" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-52" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-53" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-54" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-55" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-56" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-57" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-58" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-59" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-60" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-61" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-62" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-63" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-5" data-name="Group 8" transform="translate(6.375)">
+                <circle id="Oval-64" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-65" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-66" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-67" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-68" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-69" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-70" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-71" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-72" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-73" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-74" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-75" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-76" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-77" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-6" data-name="Group 8" transform="translate(7.969)">
+                <circle id="Oval-78" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-79" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-80" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-81" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-82" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-83" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-84" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-85" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-86" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-87" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-88" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-89" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-90" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-91" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-7" data-name="Group 8" transform="translate(9.563)">
+                <circle id="Oval-92" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-93" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-94" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-95" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-96" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-97" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-98" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-99" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-100" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-101" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-102" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-103" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-104" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-105" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-8" data-name="Group 8" transform="translate(11.156)">
+                <circle id="Oval-106" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-107" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-108" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-109" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-110" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-111" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-112" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-113" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-114" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-115" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-116" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-117" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-118" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-119" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-9" data-name="Group 8" transform="translate(12.75)">
+                <circle id="Oval-120" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-121" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-122" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-123" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-124" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-125" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-126" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-127" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-128" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-129" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-130" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-131" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-132" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-133" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-134" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-135" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-136" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-137" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-138" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-139" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-140" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+              <g id="Group_8-10" data-name="Group 8" transform="translate(14.344)">
+                <circle id="Oval-141" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+                <circle id="Oval-142" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-143" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-144" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-145" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-146" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-147" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-148" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-149" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-150" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-151" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-152" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-153" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-154" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-155" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-156" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-157" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-158" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-159" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-160" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-161" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Dots-4" data-name="Dots" transform="translate(34.911 35.539)" opacity="0.305">
+          <rect id="Mask-9" data-name="Mask" width="31.875" height="11.156" transform="translate(7.889 0) rotate(45)" fill="none"/>
+          <g id="Dots-5" data-name="Dots" transform="translate(0 0)" clip-path="url(#clip-path-4)">
+            <g id="Dots-6" data-name="Dots" transform="translate(-2.125 7.669) rotate(-45)">
+              <g id="Group_8-11" data-name="Group 8">
+                <circle id="Oval-162" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-163" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-164" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-165" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-166" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-167" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-168" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-169" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-170" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-171" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-172" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-173" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-174" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-175" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-176" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-177" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-178" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-179" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-180" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-181" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-182" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-12" data-name="Group 8" transform="translate(1.594)">
+                <circle id="Oval-183" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-184" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-185" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-186" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-187" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-188" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-189" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-190" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-191" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-192" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-193" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-194" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-195" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-196" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-13" data-name="Group 8" transform="translate(3.188)">
+                <circle id="Oval-197" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-198" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-199" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-200" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-201" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-202" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-203" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-204" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-205" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-206" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-207" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-208" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-209" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-210" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-14" data-name="Group 8" transform="translate(4.781)">
+                <circle id="Oval-211" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-212" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-213" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-214" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-215" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-216" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-217" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-218" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-219" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-220" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-221" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-222" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-223" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-224" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-15" data-name="Group 8" transform="translate(6.375)">
+                <circle id="Oval-225" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-226" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-227" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-228" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-229" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-230" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-231" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-232" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-233" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-234" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-235" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-236" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-237" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-238" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-16" data-name="Group 8" transform="translate(7.969)">
+                <circle id="Oval-239" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-240" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-241" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-242" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-243" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-244" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-245" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-246" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-247" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-248" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-249" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-250" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-251" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-252" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-17" data-name="Group 8" transform="translate(9.563)">
+                <circle id="Oval-253" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-254" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-255" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-256" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-257" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-258" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-259" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-260" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-261" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-262" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-263" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-264" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-265" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-266" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-18" data-name="Group 8" transform="translate(11.156)">
+                <circle id="Oval-267" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-268" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-269" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-270" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-271" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-272" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-273" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-274" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-275" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-276" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-277" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-278" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-279" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-280" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-19" data-name="Group 8" transform="translate(12.75)">
+                <circle id="Oval-281" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-282" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-283" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-284" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-285" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-286" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-287" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-288" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-289" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-290" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-291" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-292" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-293" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-294" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-295" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-296" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-297" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-298" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-299" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-300" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-301" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+              <g id="Group_8-20" data-name="Group 8" transform="translate(14.344)">
+                <circle id="Oval-302" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 31.875)" fill="#fff"/>
+                <circle id="Oval-303" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 30.281)" fill="#fff"/>
+                <circle id="Oval-304" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 28.688)" fill="#fff"/>
+                <circle id="Oval-305" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 27.094)" fill="#fff"/>
+                <circle id="Oval-306" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 25.5)" fill="#fff"/>
+                <circle id="Oval-307" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 23.906)" fill="#fff"/>
+                <circle id="Oval-308" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 22.313)" fill="#fff"/>
+                <circle id="Oval-309" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 20.719)" fill="#fff"/>
+                <circle id="Oval-310" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 19.125)" fill="#fff"/>
+                <circle id="Oval-311" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 17.531)" fill="#fff"/>
+                <circle id="Oval-312" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 15.938)" fill="#fff"/>
+                <circle id="Oval-313" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 14.344)" fill="#fff"/>
+                <circle id="Oval-314" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 12.75)" fill="#fff"/>
+                <circle id="Oval-315" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 11.156)" fill="#fff"/>
+                <circle id="Oval-316" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 9.563)" fill="#fff"/>
+                <circle id="Oval-317" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 7.969)" fill="#fff"/>
+                <circle id="Oval-318" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 6.375)" fill="#fff"/>
+                <circle id="Oval-319" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 4.781)" fill="#fff"/>
+                <circle id="Oval-320" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 3.188)" fill="#fff"/>
+                <circle id="Oval-321" data-name="Oval" cx="0.531" cy="0.531" r="0.531" transform="translate(0 1.594)" fill="#fff"/>
+                <circle id="Oval-322" data-name="Oval" cx="0.531" cy="0.531" r="0.531" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Image" transform="translate(0 -190.4)">
+        <circle id="Mask-10" data-name="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

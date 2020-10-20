@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21e794"/>
+      <stop offset="1" stop-color="#037b30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(0.094 -0.301)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Mask-2" data-name="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Mask-3" data-name="Mask" width="85" height="85" rx="1.25" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204"/>
+    </clipPath>
+  </defs>
+  <g id="Job_hunting" data-name="Job hunting" transform="translate(-0.094 0.301)">
+    <g id="Image" transform="translate(0 0)">
+      <g id="topic" transform="translate(0.094 -0.301)">
+        <g id="Image-3" data-name="Image" transform="translate(0 0)">
+          <circle id="Mask-4" data-name="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient)"/>
+          <g id="Image-4" data-name="Image" clip-path="url(#clip-path-2)">
+            <g id="Clean_Copy_19" data-name="Clean Copy 19" transform="translate(0 0)">
+              <g id="Pattern_Copy_29" data-name="Pattern Copy 29">
+                <g id="Mask-5" data-name="Mask" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204">
+                  <rect width="85" height="85" rx="1.25" stroke="none"/>
+                  <rect x="0.25" y="0.25" width="84.5" height="84.5" rx="1" fill="none"/>
+                </g>
+              </g>
+              <g id="Pattern" transform="translate(11.687 11.689)">
+                <path id="Combined_Shape" data-name="Combined Shape" d="M0,61.623H0V30.811H30.812a31.1,31.1,0,0,1-2.494,12A31.014,31.014,0,0,1,21.7,52.608a30.7,30.7,0,0,1-9.765,6.6A30.413,30.413,0,0,1,0,61.623Z" transform="translate(30.814 0)" fill="#fff" opacity="0.153"/>
+                <path id="Combined_Shape-2" data-name="Combined Shape" d="M0,30.812H0V0H30.812a31.094,31.094,0,0,1-2.494,12A31,31,0,0,1,21.7,21.8a30.688,30.688,0,0,1-9.765,6.6A30.4,30.4,0,0,1,0,30.812Z" transform="translate(30.814 30.811)" fill="#fff" opacity="0.254"/>
+                <path id="Combined_Shape-3" data-name="Combined Shape" d="M0,36.126H0V18.064H18.063a18.183,18.183,0,0,1-5.341,12.777A17.876,17.876,0,0,1,0,36.126Z" transform="translate(30.812 12.748)" fill="#fff" opacity="0.25"/>
+                <path id="Combined_Shape-4" data-name="Combined Shape" d="M0,18.061H0V0H18.063a18.183,18.183,0,0,1-5.341,12.777A17.876,17.876,0,0,1,0,18.061Z" transform="translate(30.812 30.812)" fill="#fff" opacity="0.104"/>
+                <path id="Combined_Shape-5" data-name="Combined Shape" d="M0,30.812H0V0H30.812a31.094,31.094,0,0,1-2.494,12A31,31,0,0,1,21.7,21.8a30.688,30.688,0,0,1-9.765,6.6A30.4,30.4,0,0,1,0,30.812Z" transform="translate(30.813 30.811) rotate(180)" fill="#fff" opacity="0.253"/>
+                <path id="Combined_Shape-6" data-name="Combined Shape" d="M30.816,30.812h0V0H61.628a31.11,31.11,0,0,1-2.494,12A31,31,0,0,1,52.517,21.8a30.7,30.7,0,0,1-9.765,6.6A30.4,30.4,0,0,1,30.816,30.812Z" transform="translate(0 30.811)" fill="#fff" opacity="0.148"/>
+                <path id="Combined_Shape-7" data-name="Combined Shape" d="M18.065,18.061h0V0H36.126a18.176,18.176,0,0,1-5.341,12.777A17.876,17.876,0,0,1,18.065,18.061Z" transform="translate(12.751 30.812)" fill="#fff" opacity="0.249"/>
+                <path id="Combined_Shape-8" data-name="Combined Shape" d="M0,18.061H0V0H18.063a18.183,18.183,0,0,1-5.341,12.777A17.876,17.876,0,0,1,0,18.061Z" transform="translate(30.814 30.81) rotate(180)" fill="#fff" opacity="0.095"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

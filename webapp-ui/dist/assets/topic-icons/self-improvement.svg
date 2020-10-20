@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4dac"/>
+      <stop offset="1" stop-color="#7f135d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#90fd85"/>
+      <stop offset="1" stop-color="#558a18"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(-0.026 0.099)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Mask-2" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(-0.026 0.158)" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Mask-3" data-name="Mask" cx="42.5" cy="42.5" r="42.5" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Mask-4" data-name="Mask" width="85" height="85" rx="1.25" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204"/>
+    </clipPath>
+  </defs>
+  <g id="self_improvement" data-name="self improvement" transform="translate(0.026 -0.099)">
+    <g id="topic" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="Image" transform="translate(0 -190.059)">
+        <circle id="Mask-5" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(-0.026 0.158)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="topic-2" data-name="topic" transform="translate(-0.026 0.099)">
+      <circle id="Mask-6" data-name="Mask" cx="42.5" cy="42.5" r="42.5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <g id="topic-3" data-name="topic" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+        <g id="Clean_Copy_8" data-name="Clean Copy 8" transform="translate(0 0)">
+          <g id="Pattern">
+            <g id="Mask-7" data-name="Mask" fill="none" stroke="#7e94a1" stroke-miterlimit="10" stroke-width="0.5" opacity="0.204">
+              <rect width="85" height="85" rx="1.25" stroke="none"/>
+              <rect x="0.25" y="0.25" width="84.5" height="84.5" rx="1" fill="none"/>
+            </g>
+            <g id="Pattern-2" data-name="Pattern" clip-path="url(#clip-path-4)">
+              <g id="Group_14" data-name="Group 14" transform="translate(-1.594 19.125)">
+                <rect id="Rectangle" width="23.044" height="11.522" transform="translate(46.088 11.522)" fill="#fff" opacity="0.123"/>
+                <rect id="Rectangle-2" data-name="Rectangle" width="23.044" height="11.522" transform="translate(46.088 0)" fill="#fff" opacity="0.227"/>
+                <circle id="Oval" cx="3.457" cy="3.457" r="3.457" transform="translate(48.392 2.304)" fill="#fff" opacity="0.204"/>
+                <circle id="Oval-2" data-name="Oval" cx="3.457" cy="3.457" r="3.457" transform="translate(58.762 2.304)" fill="#fff" opacity="0.201"/>
+                <circle id="Oval-3" data-name="Oval" cx="3.457" cy="3.457" r="3.457" transform="translate(72.588 2.304)" fill="#fff" opacity="0.154"/>
+                <circle id="Oval-4" data-name="Oval" cx="3.457" cy="3.457" r="3.457" transform="translate(81.806 2.304)" fill="#fff" opacity="0.153"/>
+                <circle id="Oval-5" data-name="Oval" cx="3.457" cy="3.457" r="3.457" transform="translate(81.806 13.826)" fill="#fff" opacity="0.146"/>
+                <path id="Rectangle-3" data-name="Rectangle" d="M0,0,23.044,23.044H0Z" transform="translate(23.044 0)" fill="#fff" opacity="0.277"/>
+                <path id="Rectangle-4" data-name="Rectangle" d="M0,0,10.37,10.37H0Z" transform="translate(23.044 35.718)" fill="#fff" opacity="0.235"/>
+                <path id="Rectangle-5" data-name="Rectangle" d="M4.27,0-6.1,10.37H4.27Z" transform="translate(40.666 35.718)" fill="#fff" opacity="0.276"/>
+                <path id="Combined_Shape" data-name="Combined Shape" d="M21.862,10.37H0a10.946,10.946,0,0,1,21.862,0Z" transform="translate(23.058 24.196)" fill="#fff" opacity="0.065"/>
+                <path id="Combined_Shape-2" data-name="Combined Shape" d="M23.044,46.032H0A24.22,24.22,0,0,1,23.044,23.016V46.031Z" transform="translate(0 23.045)" fill="#fff" opacity="0.111"/>
+                <path id="Rectangle-6" data-name="Rectangle" d="M4.744,0-6.778,11.522H4.744Z" transform="translate(41.309 0)" fill="#fff" opacity="0.475"/>
+                <circle id="Oval-6" data-name="Oval" cx="3.457" cy="3.457" r="3.457" transform="translate(72.588 13.826)" fill="#fff" opacity="0.149"/>
+                <path id="Path" d="M0,23.278,5.761,0l5.761,23.278Z" transform="translate(46.088 23.044)" fill="#fff" opacity="0.248"/>
+                <path id="Path-2" data-name="Path" d="M0,23.278,5.761,0l5.761,23.278Z" transform="translate(57.61 23.044)" fill="#fff" opacity="0.085"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
